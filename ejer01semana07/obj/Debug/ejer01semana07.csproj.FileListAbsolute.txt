@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\sistemas\ejer01semana07\ejer01semana07\bin\Debug\ejer01semana07.exe.config
+C:\Users\USUARIO\Desktop\sistemas\ejer01semana07\ejer01semana07\bin\Debug\ejer01semana07.exe
+C:\Users\USUARIO\Desktop\sistemas\ejer01semana07\ejer01semana07\bin\Debug\ejer01semana07.pdb
+C:\Users\USUARIO\Desktop\sistemas\ejer01semana07\ejer01semana07\obj\Debug\ejer01semana07.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistemas\ejer01semana07\ejer01semana07\obj\Debug\ejer01semana07.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\ejer01semana07\ejer01semana07\obj\Debug\ejer01semana07.exe
+C:\Users\USUARIO\Desktop\sistemas\ejer01semana07\ejer01semana07\obj\Debug\ejer01semana07.pdb
